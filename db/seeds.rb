@@ -5,3 +5,8 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+# This file is auto-generated from the current state of the database. Instead
+
+
+post1 = Post.new(title: "First post")
